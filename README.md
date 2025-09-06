@@ -1,8 +1,3 @@
-Got it ✅ — here’s a polished **README.md** tailored for the **non-Docker version** (manual Node.js + React setup). This is the one you’d use if you want contributors or recruiters to **clone and run without Docker**.
-
----
-
-````markdown
 # 🏨 Outs & Eats
 
 A full-stack project combining:
